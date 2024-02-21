@@ -1,0 +1,23 @@
+/* .receipes img{
+    width: 100%;
+    border-radius: 1rem;
+} */
+
+
+
+.swiper {
+    
+  }
+  
+  /* .swiper-slide {
+    background-position: center;
+    background-size: cover;
+  } */
+  
+  .swiper-slide img {
+    /* display: block; */
+    min-width: 100%;
+    height: 100%;
+    border-radius: 2rem;
+  }
+  
